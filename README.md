@@ -4,3 +4,6 @@ This repo contains course work and projects completed by myself in [**Deep Learn
 
 ## (Unofficial) lecture notes
 Credits to [Mahmoud Badry](https://github.com/mbadry1/DeepLearning.ai-Summary) for the lecture notes in this repo.
+
+## Note:
+The solutions to quizs, assignments and projects uploaded here are only for reference. You should try to complete the course work on your own if you are taking this specialization.
